@@ -3,8 +3,8 @@
 #################
 
 # You may want whitelist these
-||facebook.*^
-||bing.*^
+/facebook.*/
+/bing.*/
 
 ||casalemedia.com^
 ||rubiconproject.com^
