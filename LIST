@@ -5,6 +5,7 @@
 # You may want whitelist these
 /facebook.*/
 /bing.*/
+/msn.*/
 
 ||casalemedia.com^
 ||rubiconproject.com^
@@ -46,3 +47,4 @@
 ||justservingfiles.net^
 ||rtbsuperhub.com^
 ||*.phncdn.com^
+||adtng.com^
