@@ -3,10 +3,10 @@
 #################
 
 # You may want whitelist these
-#@@||facebook.*/
-#@@||bing.*/
-#@@||msn.*/
-#@@||yahoo.*/
+#@@||facebook.*^
+#@@||bing.*^
+#@@||msn.*^
+#@@||yahoo.*^
 
 ||casalemedia.com^
 ||rubiconproject.com^
