@@ -2,6 +2,10 @@
 # KAPENAUT LIST #
 #################
 
+# You may want whitelist these
+||facebook.*^
+||bing.*^
+
 ||casalemedia.com^
 ||rubiconproject.com^
 ||pubmatic.com^
@@ -29,7 +33,6 @@
 ||chartbeat.net^
 ||speedcurve.com^
 ||smartadserver.com^
-||bing.com^
 ||sprinklecontent.com^
 ||spklw.com^
 ||scorecardresearch.com^
