@@ -124,7 +124,7 @@
 ||onesignal.com^
 ||3lift.com^
 ||adjust.com^
-||braze.com^
+||braze.*^
 ||wistia.com^
 ||optimizely.com^
 ||datadoghq.com^
@@ -168,3 +168,12 @@
 ||hubspot.com^
 ||hs-analytics.net^
 ||adsrvr.org^
+||liftoff.io^
+||ironsrc.mobi^
+||supersonicads.com^
+||appsflyer.com^
+||adsmoloco.com^
+||app-measurement.com^
+||vungle.com^
+||mzstatic.com^
+||unity3d.com^
