@@ -116,6 +116,7 @@
 ||realsrv.com^
 ||ackcdn.net^
 ||google-analytics.*^
+||googleadservices.*^
 ||alexametrics.com^
 ||nr-data.net^
 ||newrelic.com^
