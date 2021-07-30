@@ -13,6 +13,10 @@
 /linkedin/
 /licdn/
 
+/telemetry/
+/ads/
+/metric/
+
 ||casalemedia.com^
 ||rubiconproject.com^
 ||pubmatic.com^
@@ -198,4 +202,3 @@
 ||online-metrix.net^
 ||forter.com^
 ||spotxchange.com^
-||edge.ads.twitch.tv^
