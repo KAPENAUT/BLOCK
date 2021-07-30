@@ -165,7 +165,9 @@
 ||semasio.net^
 ||sharethis.com^
 ||hubspot.com^
+||ziffdavis.com^
 ||analytics.google.*^
+||googletagmanager.*^
 ||hs-analytics.net^
 ||adsrvr.org^
 ||liftoff.io^
