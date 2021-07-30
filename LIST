@@ -2,12 +2,15 @@
 # KAPENAUT LIST #
 #################
 
-# You may want whitelist these
-#@@||facebook.*^
-#@@||bing.*^
-#@@||msn.*^
-#@@||yahoo.*^
-#@@||linkedin.*^
+# You may want whitelist these regexes
+
+/facebook/
+/fbcdn/
+/instagram/
+/bing/
+/msn/
+/yahoo/
+/linkedin/
 
 ||casalemedia.com^
 ||rubiconproject.com^
@@ -114,7 +117,6 @@
 ||klaviyo.com^
 ||realsrv.com^
 ||ackcdn.net^
-||linkedin.com^
 ||google-analytics.*^
 ||alexametrics.com^
 ||nr-data.net^
