@@ -2,6 +2,8 @@
 # KAPENAUT LIST #
 #################
 
+########################################
+
 # You may want whitelist these regexes
 
 /facebook/
@@ -12,6 +14,8 @@
 /yahoo/
 /linkedin/
 /licdn/
+
+########################################
 
 /telemetry/
 /ads/
@@ -209,3 +213,4 @@
 ||permutive.com^
 ||chimpstatic.com^
 ||servebom.com^
+||crashlytics.com^
