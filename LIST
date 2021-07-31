@@ -19,9 +19,11 @@
 
 /telemetry/
 /ads/
+/ad/
 /metric/
 /analytics/
 /metadata/
+/meta/
 /pixel/
 
 ||casalemedia.com^
