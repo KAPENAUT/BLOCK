@@ -31,6 +31,7 @@
 /data/
 /stats/
 /ping/
+/tracker/
 /wish/
 
 ||casalemedia.com^
@@ -260,3 +261,4 @@
 ||redintelligence.net^
 ||tradedoubler.com^
 ||helloretail.com^
+||adtarget.me^
