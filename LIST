@@ -30,6 +30,8 @@
 /jwp/
 /data/
 /stats/
+/ping/
+/wish/
 
 ||casalemedia.com^
 ||rubiconproject.com^
@@ -255,3 +257,6 @@
 ||network-n.com^
 ||permutive.app^
 ||webengage.com^
+||redintelligence.net^
+||tradedoubler.com^
+||helloretail.com^
