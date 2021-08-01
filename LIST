@@ -24,6 +24,7 @@
 /tics/
 /metadata/
 /meta/
+/log/
 /pixel/
 /jwp/
 
@@ -245,3 +246,6 @@
 ||2o7.net^
 ||clicktale.net^
 ||adobedtm.com^
+||bazaarvoice.com^
+||flix360.*^
+||flixfacts.com^
