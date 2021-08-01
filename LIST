@@ -17,23 +17,17 @@
 
 ########################################
 
-/telemetry/
 /try/
 /ads/
-/metric/
-/analytics/
+/ric/
 /tics/
-/metadata/
 /meta/
-/logs/
-/pixel/
-/jwp/
+/xel/
 /data/
 /stats/
-/ping/
-/tracker/
-/wish/
-/collector/
+/ing/
+/cke/
+/cto/
 
 ||casalemedia.com^
 ||rubiconproject.com^
