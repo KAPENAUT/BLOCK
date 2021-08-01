@@ -2,21 +2,6 @@
 # KAPENAUT LIST #
 #################
 
-########################################
-
-# You may want whitelist these regexes
-
-/facebook/
-/fbcdn/
-/instagram/
-/bing/
-/msn/
-/yahoo/
-/linkedin/
-/licdn/
-
-########################################
-
 /try/
 /ads/
 /ric/
